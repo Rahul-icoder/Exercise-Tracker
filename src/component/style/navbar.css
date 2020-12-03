@@ -1,0 +1,24 @@
+.navbar {
+  height: 60px;
+  background-color: black;
+}
+
+.navbar ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar li {
+  padding: 0.8rem 2rem;
+  font-size: 1.1rem;
+  list-style: none;
+}
+
+.nav {
+  text-decoration: none;
+  color: white;
+}
+.nav:hover {
+  color: brown;
+}
